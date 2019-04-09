@@ -1,1 +1,11 @@
-CMakeLists.txt not found in C:\Users\fvall\CLionProjects\Battleship Select CMakeLists.txt file...
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\fvall\CLionProjects\Battleship\Battleship
+-- The C compiler identification is GNU 8.2.0
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/fvall/CLionProjects/Battleship/Battleship/cmake-build-debug

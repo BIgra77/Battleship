@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/fvall/CLionProjects/Battleship/main.c" "C:/Users/fvall/CLionProjects/Battleship/cmake-build-debug/CMakeFiles/Battleship.dir/main.c.obj"
+  "C:/Users/fvall/CLionProjects/Battleship/Battleship/main.c" "C:/Users/fvall/CLionProjects/Battleship/Battleship/cmake-build-debug/CMakeFiles/Battleship.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
